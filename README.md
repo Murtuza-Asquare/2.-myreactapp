@@ -11,6 +11,8 @@ My Portfolio
 - Contact Form With EmailJs
 - React-Bootstrap
 
+### © Copyright 2022, Murtuza Bharmal
+
 
  
 
