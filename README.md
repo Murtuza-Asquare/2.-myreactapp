@@ -2,7 +2,7 @@
 
 My Portfolio
 
-### [live preview](https://murtuzabharmal.com)
+### [live preview](https://murtuza-asquare.github.io/myreactapp)
 
 ### Features
 
