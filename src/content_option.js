@@ -1,6 +1,6 @@
 const logotext = "MB";
 const meta = {
-    title: "Murtuza Bharmal",
+    title: "Murtuza Bharmal | React JS Developer",
     description: "React JS Developer & Innovator",
 };
 
