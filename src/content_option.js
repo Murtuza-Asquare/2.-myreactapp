@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "React JS Developer",
         second: "I love coding",
-        third: "Perfectionist & Hard wroking",
+        third: "Perfectionist & Hardworking",
     },
     description: "I always aim to gain new experiences in terms of place, industry, work, culture, and society. I believe in attaining consistency, achieving skill excellency, thriving to be best, and always aspiring to fulfil personal and professional goals. At last, to be a trustable human being.",
     your_img_url: "https://i.ibb.co/kDD7hV7/mbprofile.jpg",
