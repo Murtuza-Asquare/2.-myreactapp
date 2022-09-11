@@ -151,9 +151,9 @@ const dataportfolio = [{
 
 
 const contactConfig = {
-    // YOUR_EMAIL: "murtuzabhrml@gmail.com",
-    // YOUR_FONE: "+91-9727799994",
-    // description: "Actively looking for a remote position Job",
+    YOUR_EMAIL: "murtuzabhrml@gmail.com",
+    YOUR_FONE: "+91-9727799994",
+    description: "Actively looking for a remote position as React Js Developer",
      // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_v90b9sn",
