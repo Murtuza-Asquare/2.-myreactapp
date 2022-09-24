@@ -21,7 +21,7 @@ const dataabout = {
 }
 const workexperience = [
   {
-        jobtitle: "React JS Developer",
+        jobtitle: "HTML CSS cum React JS Developer",
         where: "Aayaan Data Science Pvt Ltd",
         date: "Nov 2020 – Jun 2022",
     },
@@ -31,7 +31,7 @@ const workexperience = [
         date: "Jan 2020 – Oct 2020",
     },
     {
-        jobtitle: "PhP Developer",
+        jobtitle: "HTML/CSS Developer",
         where: "Genesis AI Industries Limited",
         date: "Apr 2015 - Jun 2017",
     },
