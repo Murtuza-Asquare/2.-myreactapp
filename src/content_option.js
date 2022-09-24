@@ -38,24 +38,20 @@ const workexperience = [
 ];
 
 const skills = [{
-        name: "React JS",
-        value: 90,
+        name: "React JS (Beginner)",
+        value: 45,
+    },
+    {
+        name: "Javascript (Beginner)",
+        value: 45,
     },
     {
         name: "HTML / CSS",
         value: 85,
     },
     {
-        name: "Javascript",
-        value: 80,
-    },
-    {
         name: "Mongo DB",
         value: 75,
-    },
-    {
-        name: "PhP",
-        value: 70,
     },
     {
         name: "Interpersonal Skills",
