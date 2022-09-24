@@ -7,8 +7,8 @@ const meta = {
 const introdata = {
     title: "I’m Murtuza Bharmal",
     animated: {
-        first: "React JS Developer",
-        second: "I love coding",
+        first: "Web Developer",
+        second: "I love coding & UI Designing",
         third: "Perfectionist & Hardworking",
     },
     description: "I always aim to gain new experiences in terms of place, industry, work, culture, and society. I believe in attaining consistency, achieving skill excellency, thriving to be best, and always aspiring to fulfil personal and professional goals. At last, to be a trustable human being.",
