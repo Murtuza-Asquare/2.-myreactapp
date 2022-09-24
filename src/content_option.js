@@ -20,11 +20,7 @@ const dataabout = {
     aboutme: "Born in month of May, a Taurean by nature, I am hardworking and ambitious professional with a kind heart. I am born and brought up in Rajkot (Gujarat) - India. I love travelling, going on adventure trips, nature and of course Gadgets & Cars. In my free time I either prefer to watch movies or sleep ;) I am comfortable with English, Hindi & Gujarati.",
 }
 const workexperience = [
-    {
-        jobtitle: "React JS Developer",
-        where: "Avestan Technologies",
-        date: "July 2022 - working",
-    },{
+  {
         jobtitle: "React JS Developer",
         where: "Aayaan Data Science Pvt Ltd",
         date: "Nov 2020 – Jun 2022",
