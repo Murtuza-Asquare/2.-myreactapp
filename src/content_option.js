@@ -26,7 +26,7 @@ const workexperience = [
         date: "Nov 2020 – Jun 2022",
     },
     {
-        jobtitle: "Web Developer",
+        jobtitle: "HTML / CSS Developer",
         where: "Friscon Technologies Pvt Ltd",
         date: "Jan 2020 – Oct 2020",
     },
