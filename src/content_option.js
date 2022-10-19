@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Murtuza Bharmal",
     animated: {
-        first: "Web Developer",
+        first: "React JS Developer",
         second: "I love coding & UI Designing",
         third: "Perfectionist & Hardworking",
     },
@@ -21,20 +21,20 @@ const dataabout = {
 }
 const workexperience = [
   {
-        jobtitle: "HTML CSS cum React JS Developer",
-        where: "Aayaan Data Science Pvt Ltd",
-        date: "Nov 2020 – Jun 2022",
+        jobtitle: "React JS Developer",
+        where: "Avestan Technologies ",
+        date: "Jul 2019 – Ongoing",
     },
-    {
-        jobtitle: "HTML / CSS Developer",
-        where: "Friscon Technologies Pvt Ltd",
-        date: "Jan 2020 – Oct 2020",
-    },
-    {
-        jobtitle: "HTML/CSS Developer",
-        where: "Genesis AI Industries Limited",
-        date: "Apr 2015 - Jun 2017",
-    },
+    // {
+    //     jobtitle: "React JS / HTML / CSS Developer",
+    //     where: "Aayaan Data Science Private Limited",
+    //     date: "Nov 2020 – Jun 2022",
+    // },
+    // {
+    //     jobtitle: "HTML/CSS Developer",
+    //     where: "Axe Network",
+    //     date: "July 2019 - Oct 2020",
+    // },
 ];
 
 const skills = [{
@@ -48,10 +48,6 @@ const skills = [{
     {
         name: "HTML / CSS",
         value: 85,
-    },
-    {
-        name: "Mongo DB",
-        value: 75,
     },
     {
         name: "Interpersonal Skills",
